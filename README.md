@@ -39,4 +39,4 @@ This project was built to practice modern SaaS-level UI design using Next.js and
 
 ## 👩‍💻 Author
 
-Khushi Chetule  
+Khushi Chetule!!
